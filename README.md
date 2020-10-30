@@ -10,4 +10,6 @@ This script runs two clips and a buffer in ArcMap 10.7. A clip "cookie-cuts" a s
 
 Final map scene below with clipped parks, bike routes, dissolved buffers, and the zipcode. 
 
+Note: I did have pathway issues but I was able to debug by searching for the errors I was getting (000732 and 000210) and by shortening the outputs of the clips/buffers, as well as not writing the file path but simply setting the workspace and naming the result. 
+
 ![](Image/lab2map.png)
